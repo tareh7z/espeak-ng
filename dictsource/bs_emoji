@@ -26,7 +26,7 @@ $textmode
 //¨	double dot							// [00A8] other (no translation)
 ©	autorsko pravo							// [00A9] text|emoji
 //¬	not sign							// [00AC] other (no translation)
-®	registriran							// [00AE] text|emoji
+®	Registrovano							// [00AE] text|emoji
 //°	degrees								// [00B0] other (no translation)
 //±	plus or minus							// [00B1] other (no translation)
 //µ	micro								// [00B5] other (no translation)
@@ -108,7 +108,7 @@ $textmode
 ⌚	ručni sat							// [231A]
 ⌛	pješčani sat							// [231B]
 ⌨	tastatura							// [2328] text|emoji
-⏏	dugme izbaci							// [23CF] text|emoji
+⏏	Dugme izbaci							// [23CF] text|emoji
 ⏩	dugme za ubrzavanje						// [23E9]
 ⏪	dugme za brzo premotavanje					// [23EA]
 ⏫	dugme brzo gore							// [23EB]
@@ -208,9 +208,9 @@ $textmode
 ⚾	bejzbol								// [26BE]
 ⛄	snješko bijelić bez snijega					// [26C4]
 ⛅	umjereno oblačno						// [26C5]
-⛈	oblačno s grmljavinom i kišom					// [26C8] text|emoji
-⛎	zmijonosac							// [26CE]
-⛏	krampa								// [26CF] text|emoji
+⛈	Oblačno s grmljavinom i kišom					// [26C8] text|emoji
+⛎	Zmijonosac							// [26CE]
+⛏	Krampa								// [26CF] text|emoji
 ⛑	šljem s bijelim krstom						// [26D1] text|emoji
 ⛓	lanci								// [26D3] text|emoji
 ⛔	zabranjen ulaz							// [26D4]
@@ -1246,15 +1246,15 @@ $textmode
 🥫	konzervirana hrana						// [1F96B]
 🥬	lisnato povrće							// [1F96C]
 🥭	mango								// [1F96D]
-🥮	mjesečev kolač							// [1F96E]
-🥯	đevrek								// [1F96F]
-🥰	nasmijano lice sa srcima					// [1F970]
-🥳	lice koje se zabavlja						// [1F973]
-🥴	ošamućeno lice							// [1F974]
-🥵	pregrijano lice							// [1F975]
-🥶	ledeno lice							// [1F976]
-🥺	molećivo lice							// [1F97A]
-🥼	laboratorijski mantil						// [1F97C]
+🥮	Mjesečev kolač							// [1F96E]
+🥯	Đevrek								// [1F96F]
+🥰	Nasmijano lice sa srcima					// [1F970]
+🥳	Lice koje se zabavlja						// [1F973]
+🥴	Ošamućeno lice							// [1F974]
+🥵	Pregrijano lice							// [1F975]
+🥶	Ledeno lice							// [1F976]
+🥺	Molećivo lice							// [1F97A]
+🥼	Laboratorijski mantil						// [1F97C]
 🥽	zaštitne naočale						// [1F97D]
 🥾	gojzerica							// [1F97E]
 🥿	baletanka							// [1F97F]
