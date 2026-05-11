@@ -36,11 +36,11 @@ jobs:
       - name: make check
         run: ctest --test-dir build -T test -C ${{ matrix.config }} -j8 --output-on-failure
 
+      - name: install
+        run: cmake --install build --config ${{ matrix.config }} --prefix install
+
       - name: upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: espeak-ng-${{ matrix.arch }}-${{ matrix.config }}-${{ matrix.link }}
-          path: |
-            build/**/*.dll
-            build/**/*.exe
-            build/**/*.lib
+          path: install
